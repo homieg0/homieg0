@@ -1,7 +1,7 @@
 ## Thanks for visiting
 
 > "The quieter you become, the more you are able to hear." – Anonymous  
-<h3 align="center">Full-Stack Developer | Web3 Professional | </h3>
+<h3 align="center">Full-Stack Developer | Web3 Professional  </h3>
 
 
 ---
